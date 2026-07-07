@@ -193,7 +193,7 @@ The interactive dashboard provides insights through:
 # 📷 Dashboard Preview
 
 ```markdown
-![Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 ```
 
 ---
@@ -211,7 +211,7 @@ Feel free to fork this repository and submit a pull request.
 Akanksha Kumari
 💼 LinkedIn: https://linkedin.com/in/akanksha-kumari-1a0222289
 
-🌐 GitHub: https://github.com/yourusername
+🌐 GitHub: https://github.com/Akanksha265
 
 ---
 
