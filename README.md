@@ -190,13 +190,9 @@ The interactive dashboard provides insights through:
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-```markdown
-![Dashboard](Dashboard.png)
-```
-
----
+![Dashboard Preview](Dashboard.png)
 
 # 🤝 Contributing
 
@@ -209,6 +205,7 @@ Feel free to fork this repository and submit a pull request.
 # 📬 Contact
 
 Akanksha Kumari
+
 💼 LinkedIn: https://linkedin.com/in/akanksha-kumari-1a0222289
 
 🌐 GitHub: https://github.com/Akanksha265
